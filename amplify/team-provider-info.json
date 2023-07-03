@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-hyperzetton-staging-54047-authRole",
+      "UnauthRoleArn": "arn:aws:iam::639087088264:role/amplify-hyperzetton-staging-54047-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::639087088264:role/amplify-hyperzetton-staging-54047-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-hyperzetton-staging-54047-deployment",
+      "UnauthRoleName": "amplify-hyperzetton-staging-54047-unauthRole",
+      "StackName": "amplify-hyperzetton-staging-54047",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:639087088264:stack/amplify-hyperzetton-staging-54047/2944e8f0-1964-11ee-a105-0ec489297719",
+      "AmplifyAppId": "d2pwl9onu635ly"
+    }
+  }
+}
